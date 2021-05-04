@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Nogueira!
 
-## I'm a Computer Engineering Student at [University of Brasilia][UnB]
+## I'm a Computer Engineering Student at [University of Brasília][UnB]
 
 - I am 2 years from graduating from my course!  
 - I’m currently learning computer architecture and Rust.  
@@ -17,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananahell&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-## “Lambert, Lambert - what a prick.” ― Geralt of Rivia  
+## “Lambert, Lambert - what a prick.” - Geralt of Rivia  
 
 [UnB]: https://www.unb.br/
