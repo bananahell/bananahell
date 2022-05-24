@@ -2,11 +2,12 @@
 
 ## I'm a Computer Engineering Student at [University of Brasília][UnB]
 
-- I am 2 years from graduating from my course!  
-- I’m currently learning computer architecture and Rust.  
-- I’m looking to collaborate on personal projects, but only after I graduate...  
+- I am 1 year from graduating from my course!  
+- I’m currently learning electronics and low level basic software, along with SDL2 and opencv.  
+- I'm actually looking for an internship/job... I have to get some return ¬_¬  
+- My personal projects are obviously haulted because of uni, but I'm going through with my idj and ipi projects revival!  
 - Public email: cmcg89034@gmail.com  
-- Fun fact: I REALLY thought I wouldn't like anything else in my course besides programming (electronics, I love you s2)  
+- Fun fact: I REALLY thought I wouldn't like anything else in my course besides programming (electronics, I love you s2 -- kinda...)  
 - Personal interests: Artificial intelligence, gaming and game development, well-typed programming languages and rock 'n' roll!  
 
 ## Stats
