@@ -1,14 +1,11 @@
 # Hi there, I'm Pedro Nogueira!
 
-## I'm a Computer Engineering Student at [University of Brasília][UnB]
+## I'm a Computer Engineer graduate from [University of Brasília][UnB]
 
-- I am 1 year from graduating from my course!  
-- I’m currently learning electronics and low level basic software, along with SDL2 and opencv.  
-- I'm actually looking for an internship/job... I have to get some return ¬_¬  
-- My personal projects are obviously haulted because of uni, but I'm going through with my idj and ipi projects revival!  
-- Public email: cmcg89034@gmail.com  
-- Fun fact: I REALLY thought I wouldn't like anything else in my course besides programming (electronics, I love you s2 -- kinda...)  
-- Personal interests: Artificial intelligence, gaming and game development, well-typed programming languages and rock 'n' roll!  
+- Currently looking for a development job!!!  
+- My internships, specially my last one, made me full stack, so yeah
+- Recruitment tests are all gonna be here
+- I feel like I won't ever be able to do my passion projects =) depression  
 
 ## Stats
 
