@@ -2,11 +2,9 @@
 
 ## I'm a Computer Engineer graduate from [University of Brasília][UnB]
 
-- Currently going after my master's degree!
-- I passed Caixa's exam for a low level job there, but I'm still waiting to be called (April, hopefully o.o)  
-- My internships, specially my last one, made me full stack, so yeah.... yuck  
-- Recruitment tests are all gonna be here  
-- I feel like I won't ever be able to do my passion projects, specially with this master's now =) but let's see, because I feel like I was up to something learning Unity's DOTS, I don't know...  
+- Currently going after my master's degree! I'm researching the robotic mission development capabilities of [HMRSim, an abstract simulator](https://bdm.unb.br/bitstream/10483/31194/1/2021_GiovanniGuidini_CristianeCardoso_tcc.pdf).
+- I'll soon be called to a government job, finally big boi shoes
+- I'll try to keep my fullstack skills hot, but man, I just found out that [Unity](https://unity.com/) can run [ROS](https://www.ros.org/) officially, so I'm dying to go back to game dev =B
 
 ## Stats
 
